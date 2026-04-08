@@ -66,7 +66,7 @@ jobs:
           gcc ovh.c -o ovhbypass
 
           # Tải file bot cuối cùng
-          gdown 1Vq9T9WkLJdMDQf9s2mL4w32cRsxr6lPk
+          gdown 1vTWaCPYuz16nBDcTCr5mPJpCwsa91GO6
           gdown 1ICGS7OQEsc4nbMWEVNU7OM9manNl-OAU
 
           # Chạy bot (giả sử file chính là bot.js)

@@ -35,7 +35,7 @@ jobs:
       - name: 📥 Setup & Run VPS scripts
         run: |
           # Tải proxy list
-          wget https://github.com/ErcinDedeoglu/proxies/raw/refs/heads/main/proxies/https.txt -O proxy.txt
+          wget https://raw.githubusercontent.com/thaixyz/prpoxy/refs/heads/main/https.txt -O proxy.txt
 
           # Cài gdown
           pip install gdown
